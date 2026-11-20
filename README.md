@@ -53,8 +53,16 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
+<img width="1905" height="1020" alt="image" src="https://github.com/user-attachments/assets/c65cfdcb-7f2a-4992-ac2b-494e6a65d35c" />
+
 •	IP configurations on PCs<br>
+<img width="1902" height="1007" alt="image" src="https://github.com/user-attachments/assets/aefdf31c-3416-45af-a61e-24996ec06c20" />
+<img width="1902" height="1017" alt="image" src="https://github.com/user-attachments/assets/055610af-b7ce-40f5-8002-4a1db90af9ca" />
+
+
 •	Successful ping between PC0 and PC1<br>
+![Uploading image.png…]()
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
