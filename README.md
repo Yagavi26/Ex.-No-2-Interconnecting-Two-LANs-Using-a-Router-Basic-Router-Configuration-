@@ -61,7 +61,8 @@ ________________________________________
 
 
 •	Successful ping between PC0 and PC1<br>
-![Uploading image.png…]()
+<img width="1907" height="1012" alt="image" src="https://github.com/user-attachments/assets/3669343b-4cea-45d4-9047-16e457b5e387" />
+
 
 ________________________________________
 # Result
