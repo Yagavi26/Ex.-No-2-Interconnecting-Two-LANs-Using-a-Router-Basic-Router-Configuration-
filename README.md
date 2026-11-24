@@ -14,6 +14,8 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
  Description:<br>
+ <img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/3b8eec36-280b-4861-84e0-68c56ff3958c" />
+
 •	PC0 → Switch0 → Router (FastEthernet0/0)<br>
 •	PC1 → Switch1 → Router (FastEthernet0/1)<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
